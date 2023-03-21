@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is some woodo stuff right here my man
+=======
+This is a new file
+>>>>>>> 1948f211fd40b4805033ef77481dcb276b96ffa9
